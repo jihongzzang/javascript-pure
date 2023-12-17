@@ -1,0 +1,15 @@
+{
+  "name": "javascript-pure",
+  "version": "1.0.0",
+  "description": "## WebComponent 만들기",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
